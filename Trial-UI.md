@@ -17,6 +17,8 @@ Instead of logging into the interface using an email and password, the interface
 
 ### Menu
 
+![Menu](https://github.com/HXS-API/Blockchain/blob/master/Images/Menu_900.png)
+
 The main menue will give node users with the ability to:
 * **View** or refresh raw JSON data in the ledger view window
 * **Parse** the data an turn it into a human readable form, matching the way data is presented by IATI's Preview tool (example: [Oxfam GB]() aid activity files, for activities in Afghanistan)
