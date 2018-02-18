@@ -6,6 +6,8 @@ We're building a simplied interface to test a humanitarian blockchain use case i
 
 ![User Interface](https://github.com/HXS-API/Blockchain/blob/master/Images/blockchain_ui_900.png)
 
+## UI Elements
+
 ### Login Header
 
 ![Header](https://github.com/HXS-API/Blockchain/blob/master/Images/login_900.png)
