@@ -8,6 +8,8 @@ We're building a simplied interface to test a humanitarian blockchain use case i
 
 ### Login Header
 
+![Header](https://github.com/HXS-API/Blockchain/blob/master/Images/login_900.png)
+
 Instead of logging into the interface using an email and password, the interface will utilize **Node Id** and **Node User** inputs. These inputs will enable the trial to differentiate between participating organizations and between individuals working at the organizations.
 
 * **Node ID**s will be used for the names of organizations participating in the trial, for example **Oxfam** or **SaveTheChildren**
