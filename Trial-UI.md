@@ -29,11 +29,11 @@ The user interface will populate the window via pulling and displaying block dat
 
 **JSON**
 
-image
+![JSON](https://github.com/HXS-API/Blockchain/blob/master/Images/JSON_900.png)
 
 **IATI**
 
-image
+![IATI]()
 
 ### Data Input Forms
 
