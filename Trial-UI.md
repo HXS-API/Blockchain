@@ -33,7 +33,7 @@ The user interface will populate the window via pulling and displaying block dat
 
 **IATI**
 
-![IATI]()
+![IATI](https://github.com/HXS-API/Blockchain/blob/master/Images/Parse_900.png)
 
 ### Data Input Forms
 
@@ -89,6 +89,8 @@ In all cases the oldest version won't be red.
 ### Entering and Publishing New Blocks
 
 The trial UI will list basic forms (and perhaps add a full IATI vversion). The forms will include Node ID and Node User sub-fields.
+
+![Forms](https://github.com/HXS-API/Blockchain/blob/master/Images/Forms_900.png)
 
 Generate a JSON array, including a **codelist** field (nested or separate) for IDs and Uers.
 
