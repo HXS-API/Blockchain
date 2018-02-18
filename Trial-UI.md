@@ -41,6 +41,8 @@ The user interface will populate the window via pulling and displaying block dat
 
 ### Data Input Forms
 
+![Forms](https://github.com/HXS-API/Blockchain/blob/master/Images/forms_900.png)
+
 Selecting **Enter or Edit Block Data** from the main menu will replace the data view window with a series of data input forms corresponding with IATI information fields which the trial has decided to use.
 
 Interface users can use any of the fields to enter data. Expect for **IATI-identifier**, all the fields are optional. Entering an existing IATI-identifier will auto populate the forms, enabling a user to edit existing data.
@@ -94,7 +96,6 @@ In all cases the oldest version won't be red.
 
 The trial UI will list basic forms (and perhaps add a full IATI vversion). The forms will include Node ID and Node User sub-fields.
 
-![Forms](https://github.com/HXS-API/Blockchain/blob/master/Images/forms_900.png)
 
 Generate a JSON array, including a **codelist** field (nested or separate) for IDs and Uers.
 
