@@ -22,7 +22,7 @@ To use the interface to log into a network node, staff from humanitarian and don
 The interface’s **main menu** provides logged in users with the ability to:
 
 * **Refresh** the ledger window to import and view any new data changes
-* **Parse** and format ledger data in the window to look similar to data formatted by [IATI's Data Previewer]()
+* **Parse** and format ledger data in the window to look similar to data formatted by [IATI's Data Previewer](http://preview.iatistandard.org/index.php?url=http%3A//iati.oxfam.org.uk/xml/oxfamgb-af.xml)
 * **Enter** or update ledger data by using a form to create a new data block to publish
 * **Publish** a new data block created to add to the ledger
 
